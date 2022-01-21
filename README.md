@@ -26,5 +26,6 @@ Your first task is to visualize an earthquake data set.
 
    * Create a legend that will provide context for your map data.
 
-![image](https://user-images.githubusercontent.com/89691802/150558706-324e3b17-ffb4-4480-8dcf-4fccaf3fc71b.png)
+![image](https://user-images.githubusercontent.com/89691802/150559060-3460da5c-b903-4486-a690-4fef37df83a0.png)
+
 
