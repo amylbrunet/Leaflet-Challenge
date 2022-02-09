@@ -1,4 +1,4 @@
-# Leaflet-Challenge
+# Leaflet Visualization
 
 Final map deployed to: https://amylbrunet.github.io/Leaflet-Challenge/
 
